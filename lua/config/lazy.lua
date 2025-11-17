@@ -21,7 +21,7 @@ require("lazy").setup({
   },
   defaults = {
     lazy = false,
-    version = false
+    version = false,
   },
   install = { colorscheme = { "gruvbox", "tokyonight", "habamax" } },
   checker = {
